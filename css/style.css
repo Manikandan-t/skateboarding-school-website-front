@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&family=Reenie+Beanie&display=swap');
+.par1{
+    padding-top: 30px;
+    margin: 30px;
+    background-color: #BCE2F7;
+    
+}
+.p1{
+    
+    font-size: 40px;
+    font-family: Quicksand;
+    padding-left:27%;
+    padding-right: 27%;
+    text-align: center;
+}
+.span1{
+    color:#2058D6;
+}
+.span2{
+    color:#F48D0A;
+}
+.p2{
+    
+    font-size:17px;
+    font-weight:450;
+    font-family: Quicksand;
+    text-align: center;
+    padding-left:33%;
+    padding-right: 33%;
+}
+
+.boxmodal{
+    padding-top: 45px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.box{
+    background-color: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 375px;
+    height: auto;
+    border-radius: 15px;
+    
+    margin: 20px;
+    padding: 40px;
+    transition: .3s;
+}
+.box h3{
+    padding-top: 20px;
+    font-family:Reenie Beanie ;
+    font-weight: 600;
+}
+.box p{
+    font-weight: 500;
+}
